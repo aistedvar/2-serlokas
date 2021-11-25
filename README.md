@@ -9,9 +9,9 @@ _32 group website project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/31-grupe-portfolio/
+Site published at: 
 
-Design: https://new-per.netlify.app/demo-3.html
+Design: 
 
 ## Project features
 
